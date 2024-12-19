@@ -1,2 +1,1 @@
-# React_Login_Signup_Pages
 A simple React application featuring dynamic Login and Signup pages. Users can seamlessly toggle between the two forms, providing a smooth and interactive user experience. This project demonstrates component-based architecture, efficient routing, and clean UI design for authentication workflows.
