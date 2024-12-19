@@ -18,7 +18,7 @@ const Login = () => {
                     <button type="submit"> Sign In</button>
                 </form>
                 <p><a href="">Forgot password?</a></p>
-                <p>Don't have an account? <a href="./signuo.js">Sign up</a></p>
+                <p>Don't have an account? <a href="./signup.js">Sign up</a></p>
             </div>
 
             <div className="info-section">
