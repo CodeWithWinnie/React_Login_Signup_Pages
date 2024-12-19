@@ -5,7 +5,7 @@ const Signup = () => {
     return (
         <div className="signup-container">
             <div className="form-section">
-                <h2>Create a free account</h2>
+                <h1>Create a free account</h1>
                     <form>
                         <label>Email Address</label>
                         <input type="email" placeholder="Enter your email address" />
