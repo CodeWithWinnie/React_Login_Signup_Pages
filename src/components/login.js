@@ -6,21 +6,20 @@ const Login = () => {
         <div className="login-container">
             <div className="form-section">
                 <h1>Welcome Back!</h1>
-                <p>Log in to your account</p>
+                <h2>Log In to your account</h2>
 
                 <form>
                     <label>Email Address</label>
-                    <input type="email" placeholder="Enter your email address" /> 
+                    <input type="email" placeholder="Enter your email address"/>
 
                     <label>Password</label>
-                    <input type="password" placeholder="Enter your password" />
+                    <input type="password" placeholder="Enter your password"/>
 
-                    <button type="submit"> Sign In</button>
+                    <button type="submit">Sign In</button>
                 </form>
-                <p><a href="">Forgot password?</a></p>
-                <p>Don't have an account? <a href="./signup.js">Sign up</a></p>
+                <p><a href="">Forgot Password?</a></p>
+                <p>Don't have an account? <a href="/signup">Sign Up</a></p>
             </div>
-
             <div className="info-section">
                 <div className="logo-circle"></div>
                 <h2>LOGO</h2>
