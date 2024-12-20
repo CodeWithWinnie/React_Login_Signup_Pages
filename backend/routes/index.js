@@ -4,4 +4,4 @@ const auth =require('./auth')
 
 router.use('/auth', auth)
 
-module.express = router
+module.exports = router
